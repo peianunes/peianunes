@@ -1,4 +1,55 @@
-### Hi there 👋
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/peianunes/fde91efe92fa40df2bda002354f6bd38/raw/1de3b0cc712dba289d1009d41b19b4e5c8dc6135/githubCard.svg"/>
+<h1 align="left">Whats Up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Pedro </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peianunes&color=yellow" alt="Profile views" /> </p>
+
+- 🔥 Junior Web Developer  
+
+- 👨‍💻 I’m currently learning HTML, CSS, SQL, Node.JS at [Rocketseat](https://github.com/Rocketseat)
+
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=peianunes&show_icons=true&theme=vision-friendly-dark" alt="peianunes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peianunes&layout=compact&theme=vision-friendly-dark" alt="peianunes's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/peianunes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JoaoPedro-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/Pedronu87054985" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JoaoPedro-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/joao-pedro-de-souza-nunes-5b7335224" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JoaoPedro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/peianunes" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-JoaoPedro-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Pedronu87054985&layout=wide&show_reply=off&show_retweet=off" />
 
 <!--
 **peianunes/peianunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
