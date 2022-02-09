@@ -44,10 +44,9 @@
  <img align="center" src="https://img.shields.io/badge/-JoaoPedro-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
+<!--
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Pedronu87054985&layout=wide&show_reply=off&show_retweet=off" />
 
-<!--
 **peianunes/peianunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
