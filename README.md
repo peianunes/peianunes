@@ -3,9 +3,9 @@
 <h1 align="left">Whats Up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Pedro </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peianunes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer  
+- 🔥 Junior Developer  
 
-- 👨‍💻 I’m currently learning HTML, CSS, SQL, Node.JS at [Rocketseat](https://github.com/Rocketseat)
+- 👨‍💻 I’m currently specializing BackEnd skills  at [Rocketseat](https://github.com/Rocketseat)
 
 
 <br><br>
